@@ -1,1 +1,18 @@
-venv2/ 
+venv2/
+__pycache__/
+*.pyc
+.env
+# Ignore virtual environments
+venv/
+venv2/
+
+# Ignore Python cache files
+__pycache__/
+*.py[cod]
+
+# Ignore environment variables and secrets
+.env
+
+# Ignore OS and editor files
+.DS_Store
+.vscode/
