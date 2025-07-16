@@ -2,8 +2,6 @@
 
 **StatProTutor** is a smart and student-friendly web app that helps you learn Statistics and Probability with step-by-step solving, visualizations, quizzes, and even an AI tutor! Whether you're a beginner or looking to revise your concepts, StatProTutor is built for you.
 
-![StatProTutor Banner](https://github.com/Limithra2006/statpro_tutor/assets/banner.png) <!-- Replace with actual image URL if you upload one -->
-
 ---
 
 ## 🚀 Features
@@ -30,11 +28,6 @@
 
 ---
 
-## 🖥️ Live Demo
-
-🌐 Coming soon on Streamlit Cloud (or your own URL)
-
----
 
 ## 📦 Installation & Setup
 
